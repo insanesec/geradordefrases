@@ -1,2 +1,4 @@
-# phrasegen
-A basic phrase generator with php + json api
+<h3>Um básico gerador de frases em pt-Br</h3>
+<hr>
+<br>Feito com: PHP
+<br>Api: https://mil-frases.com
